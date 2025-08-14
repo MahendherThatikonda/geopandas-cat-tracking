@@ -1,2 +1,2 @@
-# geopandas-cat-tracking
-Spatial Analysis of GPS-tracked cat movements and NZ TA boundaries using GeoPandas
+# Learning the basics of spatial analysis in Python
+Spatial Analysis in Python using Geopandas, rasterio, Shapely libraries
